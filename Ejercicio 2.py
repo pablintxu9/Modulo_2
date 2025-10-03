@@ -14,3 +14,5 @@ apellido="Diaz de Greñu"
 print(nombre+apellido)
 print(nombre+apellido+".")
 print(nombre*3)
+
+#ejercicio 3
