@@ -10,7 +10,7 @@ print(type(bool))
 
 #ejercicio 2
 nombre="Pablo" 
-apellido="Diaz de Greñu "
+apellido="Diaz de Greñu"
 print(nombre+apellido)
 print(nombre+apellido+".")
 print(nombre*3)
