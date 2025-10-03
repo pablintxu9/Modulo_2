@@ -7,3 +7,10 @@ print(type(int))
 print(type(float))
 print(type(str))
 print(type(bool))
+
+#ejercicio 2
+nombre="Pablo" 
+apellido="Diaz de Greñu "
+print(nombre+apellido)
+print(nombre+apellido+".")
+print(nombre*3)
